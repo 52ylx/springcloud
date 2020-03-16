@@ -13,9 +13,9 @@ spring:
       server:
         git:
           # 配置git仓库的URL地址
-          uri: https://github.com/hairdryre/Study_SpringCloud
+          uri: https://github.com/52ylx/springcloud
           # git仓库地址下的文件夹，可以配置多个，用“,”分割。
-          search-paths: config/chapter6
+          search-paths: config
           #公共仓库可不用配置帐号密码
           username:
           password:
